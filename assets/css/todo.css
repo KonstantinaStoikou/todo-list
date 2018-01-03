@@ -64,6 +64,7 @@ li:last-child {
 }
 
 input {
+    font-family: 'Raleway', sans-serif;
     font-size: 18px;
     background: #f7f7f7;
     width: 100%;
