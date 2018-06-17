@@ -33,6 +33,7 @@ $(".fa-plus-circle").click(function() {
 });
 
 getValues();
+// localStorage.clear();
 
 //FUNCTIONS
 
